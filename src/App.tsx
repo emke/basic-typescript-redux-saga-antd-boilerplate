@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
 
-import Dummy from './containers/Dummy'
-import logo from './logo.svg';
 import './App.css';
 
 import { Layout, Menu, Icon } from 'antd'
-const { Header, Footer, Sider, Content } = Layout
+const { Header, Sider, Content } = Layout
 
 
 class App extends Component {
